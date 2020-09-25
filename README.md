@@ -1,5 +1,5 @@
-# Case_Study_GCoin
- FinTech Case Study: G-Coin
+# FinTech Case Study: G-Coin
+
 
 ![alt text](Logo.jpg)
 
