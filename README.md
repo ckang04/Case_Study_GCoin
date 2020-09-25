@@ -1,5 +1,5 @@
 # FinTech Case Study: G-Coin
-
+ 
 
 ![alt text](Logo.jpg)
 
@@ -49,3 +49,6 @@ without transaction fees. Treasury deparments can hold G-Coin tokens, rather tha
 * Why do you think that offering this product or service would benefit the company?
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
+
+## References
+[Emergent Technology (EmTech) Uses Blockchain for Gold Tracking and G-Coin Crypto Token](https://bitcoinexchangeguide.com/emergent-technology-emtech-uses-blockchain-for-gold-tracking-and-g-coin-crypto-token/)
