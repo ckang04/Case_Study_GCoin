@@ -5,7 +5,7 @@
 
 
 ## Overview and Background
-* The present study evaluates G-Coin as a key player in the FinTech space. Emergent Technology Holdings LP (EmTech), the parent company of G-Coin, was founded in 2017 by Brent De Jong.
+The present study evaluates G-Coin as a key player in the FinTech space. Emergent Technology Holdings LP (EmTech), the parent company of G-Coin, was founded in 2017 by Brent De Jong. 
 G-Coin is a digital currency that is backed by gold, meaning investors can request that the physical gold is shipped to the address that they choose at any time. 
 Traditionally, gold has been among the most illquid of investments, with high transaction costs and a spread between bid/ask. G-Coin gives investors the flexibility to send and receive value instantly, 
 securely, and at no cost from the convenience of their mobile phone. G-Coin leverages blockchain technology to combine the best qualities of traditional gold - stability,
