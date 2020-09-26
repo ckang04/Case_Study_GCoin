@@ -39,23 +39,16 @@ without transaction fees. Treasury deparments can hold G-Coin tokens, rather tha
 
 ## Limitations and Future Recommendations
 
-There are thousands of participants in the gold supply chain ranging from the miners, refiners, and transporation conduits and Davis shares, "You need to provide buyers - whether they are investors, individuals, instituations, or manufacturers - with an absolute guarantee that the gold is responsibly sourced." The demand and premiums for responsibly sourced gold are on the rise, however, there are many factors that are 
+Some of the risks and limitations identified during the study include:
+1. Policy across different countries
+2. Price Increases
+3. Rise in Competition (e.g. TradeWind Markets Inc., etc.)
 
+There are thousands of participants in the gold supply chain ranging from the miners, refiners, and transporation conduits and Davis shares, "You need to provide buyers - whether they are investors, individuals, instituations, or manufacturers - with an absolute guarantee that the gold is responsibly sourced." This is one of G-Coin's main competetive advantages and it will be imperative to uphold that integrity even as the demand and premiums for responsibly sourced gold rises. Furthermore, as popularity rises, the value of the coin will naturally increase as well. However, if the price of a G-Coin rises significantly higher than the value of a gram of gold per token, there is a risk that it may turn investors away. We recommend that EmTech and G-Coin closely monitors the demand for responsbily sourced gold in order to determine the appropriate premium that investors are willing to pay. Additionally, we recommend that G-Coin invests heavily in tapping into the B2B market in order to become the leading provider of cross-border payment solutions for multinational corporations.
 
-* What domain of the financial industry is the company in?
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-* What are the other major companies in this domain?
 ## Conclusion
-In many ways, G-Coin tokens serve as a digital certificate of title for physical gold. 
+In many ways, G-Coin tokens serve as a digital certificate of title for physical gold. The success of G-Coin strongly relies on its ability to maintain their differentiating factor from the other highly volitile cryptocurrency such as Bitcoin, Litecoin, and Ethereum. Crypto Silbert of Smartereum classifies G-Coin as a different category from cryptocurrency. Silbert states, "Unlike cryptocurrencies, where ownership is purely based on possession, G-Coin will enable specific ownership, of both the coin and gold. As a result, it could be used for wealth transfers, payment of goods, or investment and trading purposes."
 
-* What has been the business impact of this company so far?
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-* How is your company performing relative to competitors in the same domain?
-## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
 
 ## References
 - [Emergent Technology (EmTech) Uses Blockchain for Gold Tracking and G-Coin Crypto Token](https://bitcoinexchangeguide.com/emergent-technology-emtech-uses-blockchain-for-gold-tracking-and-g-coin-crypto-token/)
