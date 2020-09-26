@@ -1,5 +1,7 @@
 # FinTech Case Study: G-Coin
- 
+ **Presented by Cindy Kang**
+ *On September 26, 2020*
+
 
 ![alt text](Logo.jpg)
 
@@ -35,11 +37,17 @@ without transaction fees. Treasury deparments can hold G-Coin tokens, rather tha
 
 
 
-## Landscape:
+## Limitations and Future Recommendations
+
+There are thousands of participants in the gold supply chain ranging from the miners, refiners, and transporation conduits and Davis shares, "You need to provide buyers - whether they are investors, individuals, instituations, or manufacturers - with an absolute guarantee that the gold is responsibly sourced." The demand and premiums for responsibly sourced gold are on the rise, however, there are many factors that are 
+
+
 * What domain of the financial industry is the company in?
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 * What are the other major companies in this domain?
-## Results
+## Conclusion
+In many ways, G-Coin tokens serve as a digital certificate of title for physical gold. 
+
 * What has been the business impact of this company so far?
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 * How is your company performing relative to competitors in the same domain?
@@ -53,5 +61,6 @@ without transaction fees. Treasury deparments can hold G-Coin tokens, rather tha
 - [Emergent Technology (EmTech) Uses Blockchain for Gold Tracking and G-Coin Crypto Token](https://bitcoinexchangeguide.com/emergent-technology-emtech-uses-blockchain-for-gold-tracking-and-g-coin-crypto-token/)
 - [G-Coins: Are There Any Advantages to Cryptocurrencies Backed by Gold?](https://smartereum.com/26017/g-coins-are-there-any-advantages-to-cryptocurrencies-backed-by-gold/)
 - [Gold: Sourced Digitally, Ethically And Via Blockchain](https://www.pymnts.com/blockchain/2018/emergent-technology-holdings-gold-supply-chain-digital-currency/)
-- [title](https://www.example.com)
-- [title](https://www.example.com)
+- [gcoin.com](https://www.gcoin.com/technology/)
+- [Yamana Gold (AUY) Inks Deal to Improve Gold Supply Chain](https://www.nasdaq.com/articles/yamana-gold-auy-inks-deal-to-improve-gold-supply-chain-2018-02-13)
+-[EmTech Brings Gold on the Blockchain](https://ethereumworldnews.com/emtech-brings-gold-on-the-blockchain/)
